@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **M.E.A.N or M.E.R.N Projects**
 
-- 🤝 I’m looking for help with **Frontend or Backend solutions**
+- 🤝 I’m looking to help with **Frontend or Backend solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TMang0](https://github.com/TMang0)
 
