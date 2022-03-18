@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [B.E.P](https://github.com/TMang0/BEP-Project)
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **VueJS And Angular**
 
 - 👯 I’m looking to collaborate on **M.E.A.N or M.E.R.N Projects**
 
