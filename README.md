@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Manuel Niño</h1>
-<h3 align="center">Young man involved in the world of software development for 2 years, currently working as a freelancer and dedicated to my work.</h3>
+<h3 align="center">Young man involved in the world of software development for 2 years, currently working for SyllableIT and Group Dynamite, dedicated to my work.</h3>
 
 - 🔭 I’m currently working on [B.E.P](https://github.com/TMang0/BEP-Project)
 
