@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋, I'm Manuel Niño</h1>
 <h3 align="center">Young man involved in the world of software development for 2 years, currently working for SyllableIT and Group Dynamite, dedicated to my work.</h3>
 
-- 🔭 I’m currently working on [B.E.P](https://github.com/TMang0/BEP-Project)
+- 🔭 I’m currently working on [Group Dynamite](https://dynamiteclothing.ca/)
 
-- 🌱 I’m currently learning **VueJS And Angular**
+- 🌱 I’m currently learning **React Native and Redux**
 
 - 👯 I’m looking to collaborate on **M.E.A.N or M.E.R.N Projects**
 
