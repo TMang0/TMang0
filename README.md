@@ -1,7 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Manuel Niño</h1>
-<h3 align="center">Young man involved in the world of software development for 2 years, currently working for SyllableIT and Group Dynamite, dedicated to my work.</h3>
-
-- 🔭 I’m currently working on [Group Dynamite](https://dynamiteclothing.com/ca/)
+<h3 align="center">Young man involved in the world of software development for 2 years. </h3>
 
 - 🌱 I’m currently learning **React Native and Redux**
 
