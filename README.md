@@ -31,11 +31,7 @@ if __name__ == '__main__':
     me = TMang0()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/22tzlppkewmiaq5xfjwxl3taq">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22tzlppkewmiaq5xfjwxl3taq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 <div align="center">
