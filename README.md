@@ -15,7 +15,7 @@ Hola! I'm Manuel Niño, a professional interested in Web & Mobile Projects, I'm 
 </p>
 
 ```python
-class AbhigyanTrips():
+class TMang0():
     
   def __init__(self):
     self.name = "Manuel Niño";
