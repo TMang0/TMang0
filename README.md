@@ -2,7 +2,8 @@
   <b>Manuel Niño</b>
 </h1>
 
-Hola! I'm Manuel Niño, a professional interested in Web & Mobile Projects, I'm currently living in Bogotá, Colombia. Currently making small projects.
+Hola! I'm Manuel Niño, a professional interested in Web & Mobile Projects, I'm currently living in Bogotá, Colombia. 
+Working in EPAM Systems
 
 <br>
 
