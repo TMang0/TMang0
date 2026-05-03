@@ -3,7 +3,7 @@
 </h1>
 
 Hola! I'm Manuel Niño, a professional interested in Web & Mobile Projects, I'm currently living in Bogotá, Colombia. 
-Working in EPAM Systems
+Working in Amadeus IT Group
 
 <br>
 
